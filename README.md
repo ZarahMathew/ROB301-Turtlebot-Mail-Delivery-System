@@ -9,7 +9,7 @@ The objective of this project is to design and implement an integrated robotic c
 </p>
 As multiple offices share the same colour, deterministic localization is not sufficient for the robot to recognise its location; instead, it must build a belief distribution over possible
 locations and refine this belief continuously using camera sensing. Thus, Bayesian localization is central for this project. The Turtlebot must integrate accurate line following, color detection, and state estimation to execute full proof-of-concept demonstration where the robot begins at an arbitrary location and delivers mail to three randomly selected offices with limited intervention.
-
+<br><br>
 <p>
 This project was developed by Melysa Choi and Zarah Mathew with responsibilities spanning algorithm design, ROS integration, perception tuning, and system validation. 
 </p>
