@@ -1,4 +1,4 @@
-# ROB301-Turtlebot-Mail-Delivery-System
+# [ROB301-Turtlebot-Mail-Delivery-System](https://github.com/ZarahMathew/ROB301-Turtlebot-Mail-Delivery-System/blob/main/%5BROB301%5D%20Final%20Project%20Report_choinga_mathewz1.pdf)
 
 The objective of this project is to design and implement an integrated robotic control system that combines PID line-following, dead reckoning, and Bayesian localization to simulate an autonomous mail delivery robot. Using ROS, the project designs and tests a Turtlebot to autonomously navigate through a closed delivery loop and deliver mail to any office on the route. The map consists of eleven office locations, each marked by one of the four possible colors (red, yellow, green, and blue) with a numerical label from 2 through 12. It is connected through continuous white tape that serves as a path for line following. The topological map is shown below:
 
